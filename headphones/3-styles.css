@@ -304,6 +304,7 @@ nav img {
 .form-group #username::placeholder, .form-group #email::placeholder, .form-group #textarea::placeholder {
     color: #071629 ;
 } 
+
 /*Tablet screen styling*/
 @media  screen and (min-width: 600px) {
     nav{
@@ -394,6 +395,9 @@ nav img {
     }
     .pentagon {
         margin-bottom: 0;
+    }
+    .contact-form {
+        margin-bottom: 130px;
     }
 }
 /*Desktop screen styling*/
